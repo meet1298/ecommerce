@@ -117,7 +117,7 @@
 
 <?php include 'includes/scripts.php'; ?>
 <script> 
-	function easyrecview() {
+	function easyrecvi	ew() {
                            
                              var apikey = "985a6765017d6d7032c260d0f4747b55";
                              var tenantid = "EASYREC_DEMO";
